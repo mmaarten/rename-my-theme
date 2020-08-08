@@ -1,0 +1,7 @@
+{
+    "name": "maartenmenten/rename-wordpress-theme",
+    "type": "project",
+    "require": {
+        "nelexa/zip": "^3.3"
+    }
+}
